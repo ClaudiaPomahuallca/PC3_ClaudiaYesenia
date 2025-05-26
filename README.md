@@ -16,6 +16,9 @@ Repositorio con el análisis completo de:
 ## Página Web Explicativa
 [Ver página web](PC3_ClaudiaYesenia.html)
 
+## Página web del proyecto
+[Ver página web] (https://github.com/ClaudiaPomahuallca/PC3_ClaudiaYesenia.git)
+
 ## Cómo replicar el análisis
 1. Clonar el repositorio
 2. Abrir el notebook en Google Colab
