@@ -14,7 +14,7 @@ Repositorio con el análisis completo de:
 4. `index.html`: Página web explicativa
 
 ## Página Web Explicativa
-[Ver página web](file:///E:/PC3_ClaudiaYesenia/PC3_ClaudiaYesenia.html)
+[Ver página web](E:\PC3_ClaudiaPomahuallcaChahua\PC3_ClaudiaYesenia\PC3_ClaudiaYesenia.html)
 
 ## Cómo replicar el análisis
 1. Clonar el repositorio
