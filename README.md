@@ -14,7 +14,7 @@ Repositorio con el análisis completo de:
 4. `index.html`: Página web explicativa
 
 ## Página Web Explicativa
-[Ver página web](PC3_ClaudiaYesenia.html)
+[Ver página web]([PC3_ClaudiaYesenia.html](https://claudiapomahuallca.github.io/PC3_ClaudiaYesenia/))
 
 ## Página web del proyecto
 [Ver página web](https://github.com/ClaudiaPomahuallca/PC3_ClaudiaYesenia.git)
