@@ -25,7 +25,3 @@ Repositorio con el análisis completo de:
 - Clasificación de países en 5 categorías para cada indicador
 - Comparativa regional de los indicadores
 """
-
-# Guardar README
-with open('/content/turepo/README.md', 'w') as f:
-    f.write(readme_content)
